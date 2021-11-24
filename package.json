@@ -1,10 +1,10 @@
 {
   "name": "css-reset",
   "version": "1.0.0",
-  "description": "A bare-bones CSS reset for modern web development",
-  "main": "./dist/reset.min.css",
+  "description": "A few bare-bones CSS reset options for modern web development",
+  "main": "./dist/reset-2.min.css",
   "scripts": {
-    "build": "uglifycss src/reset.css > dist/reset.min.css && cp src/reset.css dist/reset.css"
+    "build": "uglifycss src/reset-1.css > dist/reset-1.min.css && cp src/reset-1.css dist/reset-1.css && uglifycss src/reset-2.css > dist/reset-2.min.css && cp src/reset-2.css dist/reset-2.css"
   },
   "repository": {
     "type": "git",
