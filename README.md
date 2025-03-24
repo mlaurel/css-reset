@@ -7,8 +7,7 @@
 
 A default CSS `reset.css` based on: [hankchizljaw](https://hankchizljaw.com/wrote/a-modern-css-reset/) and [Heydon](https://github.com/Heydon/modern-css-reset)
 
-An additional v2 `reset.css` based on: [joshcomeau](https://joshwcomeau.com).  Swap this in for the original reset if you want to use it.
-
+An additional v2 `reset.css` based on: [joshcomeau](https://joshwcomeau.com). Swap this in for the original reset if you want to use it.
 
 ## Installation
 
